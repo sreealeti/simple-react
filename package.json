@@ -1,11 +1,7 @@
 {
-  "name": "material-ui-example-webpack",
+  "name": "simple react with material-ui",
   "version": "0.16.4",
-  "description": "Sample project that uses Material-UI",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/callemall/material-ui.git"
-  },
+  "description": "Base reactjs with material-ui",
   "scripts": {
     "start": "webpack-dev-server --config webpack-dev-server.config.js --progress --inline --colors",
     "build": "webpack --config webpack-production.config.js --progress --colors"
